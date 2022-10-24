@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chippzzii and completly new to GitHub.
+- 👋 Hi, I’m @Chris and completly new to GitHub.
 - 👀 I’m interested in everything about Codeing!!! Teach me Code :)
-- 🌱 I’m currently learning a little bit of Java.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: Best would be at my E-Mail: c.huelsmann93@gmail.com
 
 <!---

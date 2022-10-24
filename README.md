@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Chris and completly new to GitHub.
 - 👀 I’m interested in everything about Codeing!!! Teach me Code :)
+-     I'm open for every Idea you have for improving my Skills!
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: Best would be at my E-Mail: c.huelsmann93@gmail.com
 
